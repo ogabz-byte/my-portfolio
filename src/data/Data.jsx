@@ -5,10 +5,10 @@ import Web from "../assets/projects/web.png";
 export const data = [
   {
     id: 1,
-    name: "Minishop",
+    name: "A Advanced Ecommerce with the use of State Management",
     image: Shop,
-    github: "https://github.com/ogabz-byte/mini-ecommerce",
-    live: "https://ogabzminishop.netlify.app",
+    github: "https://amazona-eight.vercel.app/",
+    live: "https://github.com/ogabz-byte/amazon",
   },
   {
     id: 2,
