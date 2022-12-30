@@ -7,8 +7,8 @@ export const data = [
     id: 1,
     name: "An Advanced Ecommerce with the use of State Management",
     image: Shop,
-    github: "https://amazona-eight.vercel.app/",
-    live: "https://github.com/ogabz-byte/amazon",
+    github: "https://github.com/ogabz-byte/amazon",
+    live: "https://amazona-eight.vercel.app/",
   },
   {
     id: 2,
