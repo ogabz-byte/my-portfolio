@@ -5,7 +5,7 @@ import Web from "../assets/projects/web.png";
 export const data = [
   {
     id: 1,
-    name: "A Advanced Ecommerce with the use of State Management",
+    name: "An Advanced Ecommerce with the use of State Management",
     image: Shop,
     github: "https://amazona-eight.vercel.app/",
     live: "https://github.com/ogabz-byte/amazon",
