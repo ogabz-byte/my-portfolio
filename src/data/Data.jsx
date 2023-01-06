@@ -19,9 +19,9 @@ export const data = [
   },
   {
     id: 3,
-    name: "Web",
-    image: Web,
-    github: "https://github.com/ogabz-byte/bootstrap5",
-    live: "https://ogabzbootstrap.netlify.app",
+    name: "An Ecommerce site with Paymentgateway",
+    image: Shop,
+    github: "https://github.com/ogabz-byte/ecommerce",
+    live: "https://ecommerce-seven-rosy.vercel.app/",
   },
 ];
