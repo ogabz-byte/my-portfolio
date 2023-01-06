@@ -1,6 +1,6 @@
 import Shop from "../assets/projects/shop.jpg";
 import Weather from "../assets/projects/weather.png";
-import Web from "../assets/projects/web.png";
+
 
 export const data = [
   {
