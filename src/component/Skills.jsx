@@ -4,9 +4,7 @@ import PHP from "../assets/php.png";
 import Next from "../assets/Next.js.png";
 import ReactImg from "../assets/react.png";
 import Node from "../assets/node.png";
-import FireBase from "../assets/firebase.png";
 import MYSQL from "../assets/mysql.png";
-import Tailwind from "../assets/tailwind.png";
 import Mongo from "../assets/mongo.png";
 
 const Skills = () => {
