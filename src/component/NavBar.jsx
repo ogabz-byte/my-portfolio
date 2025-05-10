@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
-import { HiOutlineMail } from 'react-icons/hi';
 import { Link } from "react-scroll";
 
 const Navbar = () => {
@@ -106,14 +105,14 @@ const Navbar = () => {
             </a>
           </li>
   
- <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
+{/*  <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href="mailto:sogabido@gmail.com"
             >
               Email <HiOutlineMail size={30} />
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </div>
