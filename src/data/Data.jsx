@@ -1,5 +1,4 @@
 import Shop from "../assets/projects/shop.jpg";
-import Weather from "../assets/projects/weather.png";
 import Head from "../assets/projects/head.jpg";
 import Port from "../assets/projects/port.jpg";
 
