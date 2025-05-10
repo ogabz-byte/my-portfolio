@@ -1,26 +1,28 @@
 import Shop from "../assets/projects/shop.jpg";
 import Weather from "../assets/projects/weather.png";
+import Head from "../assets/projects/head.jpg";
+import Port from "../assets/projects/port.jpg";
 
 
 export const data = [
   {
     id: 1,
-    name: "An Advanced Ecommerce with the use of State Management",
+    name: "An online store with advanced shopping features",
     image: Shop,
     github: "https://github.com/ogabz-byte/amazon",
     live: "https://amazona-eight.vercel.app/",
   },
   {
     id: 2,
-    name: "Weather Forecast",
-    image: Weather,
-    github: "https://github.com/ogabz-byte/main-weather-app",
-    live: "https://ogabz-weather-app.netlify.app",
+    name: "A Portfolio fo a client, displaying his skills",
+    image: Port,
+    github: "https://github.com/ogabz-byte/midswift",
+    live: "https://swiftie-portfolio.netlify.app/",
   },
   {
     id: 3,
-    name: "An Ecommerce site with Paymentgateway",
-    image: Shop,
+    name: "A Headset shopping store with payment integration",
+    image: Head,
     github: "https://github.com/ogabz-byte/ecommerce",
     live: "https://ecommerce-seven-rosy.vercel.app/",
   },
