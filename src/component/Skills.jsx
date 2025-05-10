@@ -1,10 +1,10 @@
 import React from "react";
 
-import PHP from "../assets/php.png";
+import LARAVEL from "../assets/laravel.png";
 import Next from "../assets/Next.js.png";
 import ReactImg from "../assets/react.png";
 import Node from "../assets/node.png";
-import MYSQL from "../assets/mysql.png";
+import MYSQL from "../assets/sql1.png";
 import Mongo from "../assets/mongo.png";
 
 const Skills = () => {
@@ -21,8 +21,8 @@ const Skills = () => {
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={PHP} alt="PHP icon" />
-            <p className="my-4">PHP</p>
+            <img className="w-20 mx-auto" src={LARAVEL} alt="PHP icon" />
+            <p className="my-4">LARAVEL</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
