@@ -1,6 +1,6 @@
 import React from "react";
 
-import MERN from "../assets/MERN-logo.png";
+import MERN from "../assets/mernNew.png";
 import GITHUB from "../assets/github.png";
 import ReactImg from "../assets/react.png";
 import POSTGRESQL from "../assets/elephant.png";
