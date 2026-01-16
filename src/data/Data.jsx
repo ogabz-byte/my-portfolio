@@ -1,6 +1,6 @@
 import Shop from "../assets/projects/shop.jpg";
 import Head from "../assets/projects/head.jpg";
-import Port from "../assets/projects/port.jpg";
+import Port from "../assets/projects/Image 1.png";
 
 
 export const data = [
@@ -13,10 +13,10 @@ export const data = [
   },
   {
     id: 2,
-    name: "A Portfolio fo a client, displaying his skills",
+    name: "DakatPay: Fintech app simplifying secure digital transactions for individuals and businesses.",
     image: Port,
-    github: "https://github.com/ogabz-byte/midswift",
-    live: "https://swiftie-portfolio.netlify.app/",
+    github: "",
+    live: "https://dakay-pay-website.vercel.app/",
   },
   {
     id: 3,
