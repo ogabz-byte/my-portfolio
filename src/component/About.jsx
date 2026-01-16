@@ -21,11 +21,7 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am passionate about working on the latest technology, building
-              valuable software, increasing the company's revenue, and watching
-              the team grow together . I specialize in creating software for
-              clients ranging from individuals and small-businesses all the way
-              to large enterprise corporations.
+             I’m passionate about building valuable software using modern technologies, contributing to business growth, and working with teams to deliver impactful solutions. I’ve worked on projects for individuals, startups, and growing businesses, helping turn ideas into reliable digital products.
             </p>
           </div>
         </div>
