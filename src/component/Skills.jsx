@@ -1,11 +1,11 @@
 import React from "react";
 
-import LARAVEL from "../assets/laravel.png";
-import Next from "../assets/Next.js.png";
+import MERN from "../assets/MERN-logo.png";
+import GITHUB from "../assets/github.png";
 import ReactImg from "../assets/react.png";
-import Node from "../assets/node.png";
+import POSTGRESQL from "../assets/elephant.png";
 import MYSQL from "../assets/sql1.png";
-import Mongo from "../assets/mongo.png";
+import DOCKER from "../assets/docker.png";
 
 const Skills = () => {
   return (
@@ -21,32 +21,28 @@ const Skills = () => {
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-4 text-center py-8">
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={LARAVEL} alt="PHP icon" />
-            <p className="my-4">LARAVEL</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img
-              className="w-20 mx-auto"
-              src={Next}
-              alt="JAVASCRIPT icon"
-            />
-            <p className="my-4">NEXT</p>
+            <img className="w-20 mx-auto" src={MERN} alt="MERN icon" />
+            <p className="my-4">MERN</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={ReactImg} alt="REACT icon" />
-            <p className="my-4">REACT</p>
+            <p className="my-4">REACT NATIVE</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={DOCKER} alt="DOCKER icon" />
+            <p className="my-4">DOCKER</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={MYSQL} alt="MYSQL icon" />
             <p className="my-4">MYSQL</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Node} alt="NODE icon" />
-            <p className="my-4">NODE JS</p>
+            <img className="w-20 mx-auto" src={POSTGRESQL} alt="POSTGRESQL icon" />
+            <p className="my-4">POSTGRESQL</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Mongo} alt="MONGO icon" />
-            <p className="my-4">MONGO DB</p>
+            <img className="w-20 mx-auto" src={GITHUB} alt="GITHUB icon" />
+            <p className="my-4">GIT ACTION</p>
           </div>
         
         </div>
