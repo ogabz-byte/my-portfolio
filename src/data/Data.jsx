@@ -1,6 +1,6 @@
 import Shop from "../assets/projects/shop.jpg";
 import Head from "../assets/projects/head.jpg";
-import Port from "../assets/projects/Image 1.png";
+import Dakat from "../assets/projects/dakat.png";
 
 
 export const data = [
@@ -14,7 +14,7 @@ export const data = [
   {
     id: 2,
     name: "DakatPay: Fintech app simplifying secure digital transactions for individuals and businesses.",
-    image: Port,
+    image: Dakat,
     github: "",
     live: "https://dakay-pay-website.vercel.app/",
   },
