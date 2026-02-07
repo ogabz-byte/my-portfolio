@@ -15,7 +15,7 @@ export const data = [
     id: 2,
     name: "DakatPay: Fintech app simplifying secure digital transactions for individuals and businesses.",
     image: Dakat,
-    github: "",
+    github: "https://github.com/DakatPay/dakat-pay-frontend",
     live: "https://dakay-pay-website.vercel.app/",
   },
   {
