@@ -1,5 +1,5 @@
 import Shop from "../assets/projects/shop.jpg";
-import Head from "../assets/projects/head.jpg";
+// import Head from "../assets/projects/head.jpg";
 import Dakat from "../assets/projects/dakat.png";
 
 
