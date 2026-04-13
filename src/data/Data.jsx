@@ -18,12 +18,6 @@ export const data = [
     image: Shop,
     github: "https://github.com/ogabz-byte/amazon",
     live: "https://amazona-eight.vercel.app/",
-  },
-  // {
-  //   id: 3,
-  //   name: "A Headset shopping store with payment integration",
-  //   image: Head,
-  //   github: "https://github.com/ogabz-byte/ecommerce",
-  //   live: "https://ecommerce-seven-rosy.vercel.app/",
-  // },
+  }
+  
 ];
